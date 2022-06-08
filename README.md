@@ -1,4 +1,4 @@
-Hi I'm Damon. I have a background in geotechnical engineering and I'm currently studying the final term of Coder Academy's Coding Bootcamp to attain a Diploma of Information Technology and transition to a career in software development. 
+Hi I'm Damon. I have a background in geotechnical engineering and I'm currently studying the final term of Coder Academy's Coding Bootcamp to attain a Diploma of Information Technology and transition in to a career in software development. 
 
 
 #### Skills
